@@ -1,7 +1,6 @@
 KSLV291 Database server Productie DeliXL
  
- 
-Zoeken naar files 
+Zoeken naar files:
 
 find /var -size +2000 -xdev -exec ls -l {} \; | sort +4 -5rn| more
 
